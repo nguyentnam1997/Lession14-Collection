@@ -1,9 +1,8 @@
-package service;
+package BaiTapTrenLop.service;
 
-import entities.Student;
-import view.Menu;
+import BaiTapTrenLop.entities.Student;
+import BaiTapTrenLop.view.Menu;
 
-import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package entities;
+package BaiTapTrenLop.entities;
 
 public class Student {
     private static int autoId;

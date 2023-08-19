@@ -1,6 +1,8 @@
-import entities.Student;
-import service.StudentManagement;
-import view.Menu;
+package BaiTapTrenLop;
+
+import BaiTapTrenLop.entities.Student;
+import BaiTapTrenLop.service.StudentManagement;
+import BaiTapTrenLop.view.Menu;
 
 import java.util.*;
 

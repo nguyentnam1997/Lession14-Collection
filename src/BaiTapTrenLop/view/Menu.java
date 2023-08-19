@@ -1,4 +1,4 @@
-package view;
+package BaiTapTrenLop.view;
 
 public class Menu {
     public void showMenuOption() {
